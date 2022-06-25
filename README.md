@@ -1,17 +1,7 @@
-# Quartz
+# Dataverse
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+Hi, my name is Patrick Ambrose, a constant learner and a serial optimizer currently working in Supply Chain. This project is a little guide that I plan to continuously work on, to help anyone who wants to dive into data and things around it. Before anything else, I AM NOT AN EXPERT in any way, shape or form. I am constantly learning and improving myself and I wish to share that with you. If you feel that something can be better or if there is anything that is wrong, please feel free to reach out to me. Yes, I am an introvert, but I value group learning more than my shyness, so it's all good. 
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+That being out of the way, in this guide, I aim to share tips, tricks, walkthroughs and resources around data. As the first step, I will be concentrating on Excel. Excel can be a valuable asset to almost anyone involved in a professional or an academic setting. It can do things from adding two numbers to simulating a manufacturing process and algorithmically predict values based on a set of criteria. This README in itself is an evolving documentation, so things will be polished more as time goes on. 
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Good luck and see ya around!
